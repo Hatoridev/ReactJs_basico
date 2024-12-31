@@ -1,0 +1,33 @@
+.App {
+  text-align: center; /* Centraliza o conteúdo no eixo horizontal */
+  font-family: Arial, sans-serif; /* Define a fonte do conteúdo */
+}
+
+h1 {
+  color: #282c34; /* Cor do título */
+  margin-top: 20px; /* Espaço acima do título */
+}
+
+button {
+  padding: 10px 20px; /* Adiciona um pouco de espaço interno aos botões */
+  font-size: 16px; /* Define o tamanho da fonte */
+  margin: 10px; /* Adiciona margem entre os botões */
+  cursor: pointer; /* Muda o cursor para o ponteiro, indicando que é clicável */
+  border-radius: 4px; /* Arredonda os cantos do botão */
+}
+
+button:hover {
+  background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+  color: white; /* Cor do texto ao passar o mouse */
+}
+
+p {
+  font-size: 18px; /* Tamanho da fonte do parágrafo */
+  color: #333; /* Cor do texto */
+}
+
+strong {
+  font-size: 24px; /* Tamanho maior para o número do contador */
+  color: #ff6347; /* Cor laranja para o contador */
+}
+
