@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #282c34;
+  margin-top: 20px;
+}
+
+.content {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.props-demo, .prop-types-demo {
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 10px 0;
+}
+
+strong {
+  color: #0056b3;
+}
+
