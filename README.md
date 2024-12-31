@@ -1,6 +1,6 @@
 # ReactJS
 
-This repository contains introductory examples of web development using ReactJS, focusing on building dynamic websites.
+This repository contains introductory examples of web development using ReactJS, a JavaScript library, focusing on building dynamic websites.
 
 ## How to Run
 
