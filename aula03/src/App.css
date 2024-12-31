@@ -1,0 +1,34 @@
+.App {
+  text-align: center; /* Centraliza o conteúdo no eixo horizontal */
+  font-family: Arial, sans-serif; /* Define a fonte do conteúdo */
+}
+
+h1 {
+  color: #282c34; /* Cor do título */
+  margin-top: 20px; /* Espaço acima do título */
+}
+
+.click-counter {
+  background-color: #f4f4f4; /* Cor de fundo do componente ClickCounter */
+  padding: 20px; /* Espaço interno no componente */
+  margin-top: 20px; /* Espaço superior */
+  border: 1px solid #ccc; /* Borda de 1px, cor cinza claro */
+  display: inline-block; /* Exibe o componente em linha com outros elementos */
+}
+
+button {
+  padding: 10px 20px; /* Espaçamento interno do botão */
+  font-size: 16px; /* Tamanho da fonte do botão */
+  cursor: pointer; /* Altera o cursor para um ponteiro, indicando que é clicável */
+  margin-top: 10px; /* Espaço acima do botão */
+}
+
+button:hover {
+  background-color: #0056b3; /* Cor de fundo quando o botão é hover */
+  color: white; /* Cor do texto quando o botão é hover */
+}
+
+strong {
+  color: #0056b3; /* Cor para o texto em negrito */
+}
+
